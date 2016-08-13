@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Permisos Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+
+    <string name="permiso_camera">Se necesita el permiso de la cámara.</string>
+    <string name="permiso_contactos">Se necesita el permiso de contactos.</string>
+    <string name="permiso_almacenamiento">Se necesita el permiso de lectura de almacenamiento.</string>
+
+    <string name="permiso_camara_disponible">Se ha concedido los permisos de CAMARA.</string>
+    <string name="permiso_contactos_disponible">Se ha concedido los permisos de CONTACTOS.</string>
+    <string name="permiso_lectura_disponible">Se ha concedido los permisos de LECTURA.</string>
+
+    <string name="permiso_camara_no_disponible">NO se ha concedido los permisos de CAMARA.</string>
+    <string name="permiso_contactos_no_disponible">NO se ha concedido los permisos de CONTACTOS.</string>
+    <string name="permiso_lectura_no_disponible">NO se ha concedido los permisos de LECTURA.</string>
+</resources>
+
